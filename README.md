@@ -3,5 +3,5 @@ Methods to solve the challenge from Kaggle:https://www.kaggle.com/competitions/t
 
 1. fill nan with mean
 2. step-wise for feature selection
-3. SVM, Logistic, knn
+3. SVM, Logistic, knn(wth best k), randomForest
 4. Some classic nerual network
